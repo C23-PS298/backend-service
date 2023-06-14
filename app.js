@@ -1,7 +1,7 @@
 // This is the Main Backend Service provided by CC for SaBo App
 const express = require("express");
 require('@google-cloud/debug-agent').start();
-const port = 8081;
+const port = 8080;
 
 const app = express();
 
