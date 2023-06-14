@@ -10,6 +10,7 @@ Library used🧩
 
 ## How to Use👨‍💻
 - Clone this repository to your machine.
+- Change database configuration in`./config/database.js` with your database service connection address.
 - Open terminal and run `npm install` to install all required dependencies.
 - Run `npm run start`.
 - Voilà, our backend services runs like magic✨
