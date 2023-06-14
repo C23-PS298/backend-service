@@ -24,4 +24,4 @@ In order to use this remotely on a server, you can directly deploy this repo to 
 - Open the link provided and use it as your endpoint. Works like a charm🤝
 
 ## Documentation📑
-In order to use and integrate our backend services with frontend, you can refer to our API Documentation [here](https://docs.google.com/spreadsheets/d/1GCcjG5RSXkoDq9XkSQIgPpwpn7zdazr5xilzSL7uja0/edit?usp=sharing)
+In order to use and integrate our backend services with frontend, you can refer to our [API Documentation](https://docs.google.com/spreadsheets/d/1GCcjG5RSXkoDq9XkSQIgPpwpn7zdazr5xilzSL7uja0/edit?usp=sharing)
