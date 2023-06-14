@@ -3,10 +3,10 @@ Hi folks👋
 This repo contains our RESTful Backend API services that runs on [Node.js](https://nodejs.org/)
 
 - Library used🧩
-✅ExpressJS - used as backend framework for our api to run.
-✅JWT (JSON Web Token) - used for token authentication in each http request.
-✅MySQL2 - used for connection with our database services in our cloud VM.
-✅Bcrypt - used for securing user generated password for enhancing security.
+-✅ExpressJS - used as backend framework for our api to run.
+-✅JWT (JSON Web Token) - used for token authentication in each http request.
+-✅MySQL2 - used for connection with our database services in our cloud VM.
+-✅Bcrypt - used for securing user generated password for enhancing security.
 
 ## How to Use👨‍💻
 - Clone this repository to your machine.
