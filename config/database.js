@@ -1,10 +1,10 @@
 const { createPool } = require("mysql2");
 
 const pool = createPool({
-  host: "34.101.172.209",
+  host: "YOURHOST", // input host db here
   port: 3306,
-  user: "sabo-admin",
-  password: "sabosecret",
+  user: "YOURUSER", // input username db here
+  password: "YOURPASSWORD", // input pass db here
   database: "sabo_db",
   connectionLimit: 10
 });
