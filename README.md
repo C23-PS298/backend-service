@@ -2,7 +2,7 @@
 Hi folks👋
 This repo contains our RESTful Backend API services that runs on [Node.js](https://nodejs.org/)
 
-Library used🧩
+## Library used🧩
 - ✅[ExpressJS](https://expressjs.com/) - used as backend framework for our api to run.
 - ✅[JWT (JSON Web Token)](https://jwt.io/) - used for token authentication in each http request.
 - ✅[MySQL2](https://www.npmjs.com/package/mysql2) - used for connection with our database services in our cloud VM.
